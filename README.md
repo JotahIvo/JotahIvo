@@ -23,3 +23,5 @@
 </div><br/>
 
 Estudante de Engenharia na UFU e apaixonado por programação!
+
+ ![Snake animation](https://github.com/JotahIvo/JotahIvo/blob/output/github-contribution-grid-snake.svg)
